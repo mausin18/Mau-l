@@ -12,8 +12,9 @@
   <a href="https://twitter.com/XdMauu1">
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
+  
+  
 <div id="badges" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true"/>
-</a>
+
+</div>
