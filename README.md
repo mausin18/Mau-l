@@ -15,4 +15,4 @@
 </div>
 
 ### Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mau-l=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mau-l)](https://github.com/anuraghazra/github-readme-stats)
