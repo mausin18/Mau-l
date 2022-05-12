@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
                     
-My Stats:             
+### My Stats:             
   
 <div id="badges" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true"/>
