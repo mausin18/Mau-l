@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://discord.gg/5ukqwymYHy">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="your-youtube-URL">
