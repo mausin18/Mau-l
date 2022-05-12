@@ -14,4 +14,5 @@
   </a>
 </div>
 
-### :fire: Estadisticas :
+### Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mau-l=anuraghazra&theme=dark&show_icons=true)
