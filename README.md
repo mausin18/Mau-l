@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="310"/>
+  <img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="330"/>
 </div>
 <div id="badges" align="center">
+  </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
