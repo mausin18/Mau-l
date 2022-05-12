@@ -14,6 +14,6 @@
   </a>
 </div>
 
-<div id="badges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true"/>
+<div id="badges" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true"/>
 </a>
