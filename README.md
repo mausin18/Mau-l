@@ -14,6 +14,6 @@
   </a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div id="badges">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true"/>
 </a>
