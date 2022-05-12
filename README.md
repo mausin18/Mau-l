@@ -14,5 +14,5 @@
   </a>
 </div>
 
-									![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true&align="center")
 
