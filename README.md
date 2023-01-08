@@ -16,7 +16,7 @@
 ### :fire: My Stats :             
   
 <div id="badges" align="center">
-  <a href="https://google.com">
+  <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Mau-l&theme=dark&show_icons=true"/>
 
 </div>
